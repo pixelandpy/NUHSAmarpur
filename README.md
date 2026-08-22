@@ -34,24 +34,3 @@ hero.jpg                    Homepage hero photo (this exact filename)
 <any other name>.pdf            Any PDF, referenced by filename from
                                   downloads.json or a notice's "attachment"
 ```
-
-## How to edit
-
-See the main website project's **`CONTENT-GUIDE.md`** and
-**`PHONE-EDITING-GUIDE.md`** for the exact JSON format of every file and
-step-by-step phone instructions. In short:
-
-1. Open the file you want to change directly in GitHub (web or app) —
-   everything is at the top level, no folders to open first.
-2. Edit it, then commit.
-3. For a new photo or PDF: **Add file → Upload files**, upload it
-   straight into this repository's root (no subfolder), commit, then add
-   its exact filename to the relevant JSON file.
-
-Changes are usually visible on the live website within a minute or two.
-
-## Keep this repository public
-
-The website reads these files directly from a visitor's browser with no
-login and no access token, so this repository needs to stay **public**
-for the site to work.
