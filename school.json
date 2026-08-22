@@ -8,7 +8,7 @@
   "school_tagline_hi": "[विद्यालय की टैगलाइन जोड़ें]",
 
   "address_en": "Sivalay Road, Kakwara Tola, Amarpur, Banka, Bihar - 813102",
-  "address_hi": "सिवालय रोड, ककवारा टोला, अमरपुर, बांका, बिहार - 813102"
+  "address_hi": "सिवालय रोड, ककवारा टोला, अमरपुर, बांका, बिहार - 813102",
 
   "phone": "[ADD PHONE NUMBER]",
   "email": "[ADD EMAIL ADDRESS]",
@@ -18,7 +18,7 @@
 
   "map_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d439.47259913077215!2d86.89721382401277!3d24.840353064947134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f101a868678acb%3A0x4ea87fb06a8890ee!2sNUHS%20HIGH%20SCHOOL%20AMARPUR%20%2CBANKA!5e0!3m2!1sen!2sin!4v1787362397914!5m2!1sen!2sin",
   "map_directions_url": "https://www.google.com/maps/dir/?api=1&destination=NUHS+HIGH+SCHOOL+AMARPUR+BANKA",
-
+  
   "students_count": "[ADD NUMBER]",
   "teachers_count": "[ADD NUMBER]",
   "classes_offered": "[9 to 12]",
