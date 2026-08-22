@@ -1,0 +1,58 @@
+[
+  {
+    "title_en": "SAMPLE: Teachers' Day Programme",
+    "title_hi": "नमूना: शिक्षक दिवस कार्यक्रम",
+    "date": "2026-09-05",
+    "end_date": "",
+    "time": "10:00 AM",
+    "venue_en": "School Assembly Ground",
+    "venue_hi": "विद्यालय प्रांगण",
+    "category": "Cultural",
+    "important": true,
+    "description_en": "Students will present a short cultural programme to honour their teachers.",
+    "description_hi": "छात्र अपने शिक्षकों के सम्मान में एक छोटा सांस्कृतिक कार्यक्रम प्रस्तुत करेंगे।",
+    "image": ""
+  },
+  {
+    "title_en": "SAMPLE: Inter-House Sports Day",
+    "title_hi": "नमूना: अंतर-सदन खेल दिवस",
+    "date": "2026-10-02",
+    "end_date": "",
+    "time": "9:00 AM",
+    "venue_en": "School Playground",
+    "venue_hi": "विद्यालय का खेल मैदान",
+    "category": "Sports",
+    "important": false,
+    "description_en": "Annual sports day with track and field events for all classes.",
+    "description_hi": "सभी कक्षाओं के लिए ट्रैक और फील्ड स्पर्धाओं के साथ वार्षिक खेल दिवस।",
+    "image": ""
+  },
+  {
+    "title_en": "SAMPLE: Parent-Teacher Meeting",
+    "title_hi": "नमूना: अभिभावक-शिक्षक बैठक",
+    "date": "2026-08-29",
+    "end_date": "",
+    "time": "11:00 AM",
+    "venue_en": "Respective Classrooms",
+    "venue_hi": "संबंधित कक्षा-कक्ष",
+    "category": "Academic",
+    "important": false,
+    "description_en": "Parents are requested to meet class teachers to discuss student progress.",
+    "description_hi": "अभिभावकों से अनुरोध है कि वे छात्रों की प्रगति पर चर्चा हेतु कक्षा शिक्षकों से मिलें।",
+    "image": ""
+  },
+  {
+    "title_en": "SAMPLE: Republic Day Celebration (Past Example)",
+    "title_hi": "नमूना: गणतंत्र दिवस समारोह (पिछला उदाहरण)",
+    "date": "2026-01-26",
+    "end_date": "",
+    "time": "9:00 AM",
+    "venue_en": "School Assembly Ground",
+    "venue_hi": "विद्यालय प्रांगण",
+    "category": "General",
+    "important": false,
+    "description_en": "An example of a past event — once its date has gone by, it automatically moves to the \"Past Events\" section below.",
+    "description_hi": "यह एक बीते हुए कार्यक्रम का उदाहरण है — तारीख बीतने के बाद यह अपने आप \"बीते कार्यक्रम\" अनुभाग में चला जाता है।",
+    "image": ""
+  }
+]

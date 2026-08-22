@@ -1,0 +1,32 @@
+[
+  {
+    "title_en": "SAMPLE: Admission Form",
+    "title_hi": "नमूना: प्रवेश फॉर्म",
+    "file": "admission-form.pdf",
+    "type": "Form",
+    "date": "2026-06-01",
+    "description_en": "Form for new student admission.",
+    "description_hi": "नए छात्र प्रवेश हेतु फॉर्म।",
+    "size": ""
+  },
+  {
+    "title_en": "SAMPLE: Half-Yearly Exam Datesheet",
+    "title_hi": "नमूना: छमाही परीक्षा तिथि-सूची",
+    "file": "half-yearly-datesheet.pdf",
+    "type": "Exam",
+    "date": "2026-08-10",
+    "description_en": "Datesheet for the half-yearly examinations.",
+    "description_hi": "छमाही परीक्षा की तिथि-सूची।",
+    "size": ""
+  },
+  {
+    "title_en": "SAMPLE: School Leaving Certificate — Application",
+    "title_hi": "नमूना: विद्यालय त्याग प्रमाण पत्र — आवेदन",
+    "file": "tc-application.pdf",
+    "type": "Form",
+    "date": "2026-04-15",
+    "description_en": "Application form for a Transfer/School Leaving Certificate.",
+    "description_hi": "स्थानांतरण/विद्यालय त्याग प्रमाण पत्र हेतु आवेदन फॉर्म।",
+    "size": ""
+  }
+]

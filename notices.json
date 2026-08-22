@@ -1,0 +1,46 @@
+[
+  {
+    "title_en": "SAMPLE: School Reopens After Summer Break",
+    "title_hi": "नमूना: गर्मी की छुट्टियों के बाद विद्यालय पुनः खुलेगा",
+    "date": "2026-08-16",
+    "important": true,
+    "category": "General",
+    "description_en": "The school will reopen for all classes on the date above. Students should bring their textbooks and wear the school uniform from the first day.",
+    "description_hi": "विद्यालय ऊपर दी गई तारीख से सभी कक्षाओं के लिए पुनः खुलेगा। छात्रों से अनुरोध है कि वे पहले दिन से ही अपनी पाठ्यपुस्तकें और विद्यालय की वर्दी लेकर आएं।",
+    "attachment": "",
+    "expiry": ""
+  },
+  {
+    "title_en": "SAMPLE: Independence Day Celebration",
+    "title_hi": "नमूना: स्वतंत्रता दिवस समारोह",
+    "date": "2026-08-15",
+    "important": false,
+    "category": "General",
+    "description_en": "The school will celebrate Independence Day with flag hoisting followed by a short cultural programme. All students and parents are welcome.",
+    "description_hi": "विद्यालय में स्वतंत्रता दिवस के अवसर पर ध्वजारोहण और एक छोटे सांस्कृतिक कार्यक्रम का आयोजन किया जाएगा। सभी छात्र और अभिभावक आमंत्रित हैं।",
+    "attachment": "",
+    "expiry": ""
+  },
+  {
+    "title_en": "SAMPLE: Half-Yearly Examination Datesheet",
+    "title_hi": "नमूना: छमाही परीक्षा की तिथि-सूची",
+    "date": "2026-08-10",
+    "important": false,
+    "category": "Exam",
+    "description_en": "The datesheet for the half-yearly examinations has been finalised. Replace this notice with the real datesheet, and attach the PDF from the Downloads system using the \"attachment\" field.",
+    "description_hi": "छमाही परीक्षा की तिथि-सूची तय कर दी गई है। कृपया इस नमूना सूचना को वास्तविक तिथि-सूची से बदलें।",
+    "attachment": "",
+    "expiry": ""
+  },
+  {
+    "title_en": "SAMPLE: Scholarship Application Window Open",
+    "title_hi": "नमूना: छात्रवृत्ति हेतु आवेदन शुरू",
+    "date": "2026-08-05",
+    "important": false,
+    "category": "Admission",
+    "description_en": "Eligible students can apply for the state scholarship scheme before the window closes. Contact the school office for the application form.",
+    "description_hi": "पात्र छात्र निर्धारित अवधि समाप्त होने से पहले राज्य छात्रवृत्ति योजना हेतु आवेदन कर सकते हैं। आवेदन फॉर्म के लिए विद्यालय कार्यालय से संपर्क करें।",
+    "attachment": "",
+    "expiry": "2026-09-05"
+  }
+]

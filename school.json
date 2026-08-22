@@ -1,0 +1,48 @@
+{
+  "_comment": "This file holds ONE record: general facts about the school, used across many pages (homepage, About, Academics, Contact, footer). See CONTENT-GUIDE.md for a full explanation of every field. Fields ending in _en are English text; the matching _hi field is the same information in Hindi — leave a _hi field as an empty string and the site will show the English version instead. Anything in [SQUARE BRACKETS] is a placeholder — replace the whole bracketed phrase with real information. Do not delete a field even if you don't have the information yet; just leave the placeholder text there. This _comment field itself is ignored by the website.",
+
+  "school_name_en": "N.U.H.S. Amarpur",
+  "school_name_hi": "एन.यू.एच.एस. अमरपुर",
+
+  "school_tagline_en": "[ADD SCHOOL TAGLINE]",
+  "school_tagline_hi": "[विद्यालय की टैगलाइन जोड़ें]",
+
+  "address_en": "[ADD FULL SCHOOL ADDRESS WITH PIN CODE], Amarpur, Banka, Bihar",
+  "address_hi": "[पूरा पता और पिन कोड जोड़ें], अमरपुर, बांका, बिहार",
+
+  "phone": "[ADD PHONE NUMBER]",
+  "email": "[ADD EMAIL ADDRESS]",
+
+  "office_hours_en": "[ADD OFFICE HOURS, e.g. Monday–Saturday, 9:30 AM – 4:00 PM]",
+  "office_hours_hi": "[कार्यालय समय जोड़ें]",
+
+  "map_embed_url": "",
+  "map_directions_url": "",
+
+  "students_count": "[ADD NUMBER]",
+  "teachers_count": "[ADD NUMBER]",
+  "classes_offered": "[ADD CLASSES, e.g. 1 to 10]",
+  "established_year": "[ADD YEAR]",
+
+  "board_affiliation_en": "[ADD BOARD, e.g. Bihar School Examination Board]",
+  "board_affiliation_hi": "[बोर्ड जोड़ें]",
+  "medium_of_instruction_en": "[ADD MEDIUM, e.g. Hindi]",
+  "medium_of_instruction_hi": "[शिक्षा का माध्यम जोड़ें]",
+  "academic_year_en": "[ADD ACADEMIC YEAR, e.g. 2026–27]",
+  "academic_year_hi": "[शैक्षणिक वर्ष जोड़ें]",
+
+  "principal_name": "[ADD PRINCIPAL NAME]",
+  "principal_designation_en": "Principal",
+  "principal_designation_hi": "प्रधानाध्यापक",
+  "principal_photo_url": "",
+
+  "principal_message_en": "[ADD PRINCIPAL'S MESSAGE IN ENGLISH — a short welcome message from the principal to students, parents, and visitors to the website.]",
+  "principal_message_hi": "[प्रधानाध्यापक का हिंदी में संदेश यहाँ जोड़ें]",
+
+  "about_en": "[ADD A FEW PARAGRAPHS ABOUT THE SCHOOL IN ENGLISH — its history, what it offers students, and what makes it part of the Amarpur community. This text appears on the homepage (as a short preview) and in full on the About page.]",
+  "about_hi": "[विद्यालय के बारे में हिंदी में जानकारी यहाँ जोड़ें]",
+
+  "important_banner": false,
+  "important_banner_text_en": "",
+  "important_banner_text_hi": ""
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "title_en": "SAMPLE: District-Level Science Exhibition",
+    "title_hi": "नमूना: जिला स्तरीय विज्ञान प्रदर्शनी",
+    "category_en": "Science",
+    "category_hi": "विज्ञान",
+    "date": "2026-01",
+    "description_en": "Students represented the school at the district science exhibition.",
+    "description_hi": "छात्रों ने जिला विज्ञान प्रदर्शनी में विद्यालय का प्रतिनिधित्व किया।",
+    "image": ""
+  },
+  {
+    "title_en": "SAMPLE: Block-Level Sports Meet",
+    "title_hi": "नमूना: प्रखंड स्तरीय खेल प्रतियोगिता",
+    "category_en": "Sports",
+    "category_hi": "खेल",
+    "date": "2025-11",
+    "description_en": "School athletes participated in the block-level sports meet.",
+    "description_hi": "विद्यालय के खिलाड़ियों ने प्रखंड स्तरीय खेल प्रतियोगिता में भाग लिया।",
+    "image": ""
+  },
+  {
+    "title_en": "SAMPLE: State Scholarship Recipients",
+    "title_hi": "नमूना: राज्य छात्रवृत्ति प्राप्तकर्ता",
+    "category_en": "Academic",
+    "category_hi": "शैक्षणिक",
+    "date": "2025-09",
+    "description_en": "A number of students qualified for the state scholarship scheme.",
+    "description_hi": "कई छात्र राज्य छात्रवृत्ति योजना के लिए योग्य पाए गए।",
+    "image": ""
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "name_en": "[ADD TEACHER NAME]",
+    "name_hi": "[शिक्षक का नाम जोड़ें]",
+    "designation_en": "Principal",
+    "designation_hi": "प्रधानाध्यापक",
+    "subject_en": "",
+    "subject_hi": "",
+    "photo": "",
+    "qualification": "",
+    "profile_en": "[ADD A SHORT PROFILE]",
+    "profile_hi": "[संक्षिप्त परिचय जोड़ें]",
+    "order": 1
+  },
+  {
+    "name_en": "[ADD TEACHER NAME]",
+    "name_hi": "[शिक्षक का नाम जोड़ें]",
+    "designation_en": "Assistant Teacher",
+    "designation_hi": "सहायक शिक्षक",
+    "subject_en": "[ADD SUBJECT]",
+    "subject_hi": "[विषय जोड़ें]",
+    "photo": "",
+    "qualification": "",
+    "profile_en": "",
+    "profile_hi": "",
+    "order": 2
+  },
+  {
+    "name_en": "[ADD TEACHER NAME]",
+    "name_hi": "[शिक्षक का नाम जोड़ें]",
+    "designation_en": "Assistant Teacher",
+    "designation_hi": "सहायक शिक्षक",
+    "subject_en": "[ADD SUBJECT]",
+    "subject_hi": "[विषय जोड़ें]",
+    "photo": "",
+    "qualification": "",
+    "profile_en": "",
+    "profile_hi": "",
+    "order": 3
+  }
+]
