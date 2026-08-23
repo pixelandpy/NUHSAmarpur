@@ -21,10 +21,10 @@
   
   "students_count": "[ADD NUMBER]",
   "teachers_count": "[ADD NUMBER]",
-  "classes_offered": "[9 to 12]",
+  "classes_offered": "9, 10, 11, 12",
   "established_year": "[ADD YEAR]",
 
-  "board_affiliation_en": "[Bihar School Examination Board]",
+  "board_affiliation_en": "Bihar School Examination Board",
   "board_affiliation_hi": "बिहार विद्यालय परीक्षा बोर्ड",
   "medium_of_instruction_en": "Hindi",
   "medium_of_instruction_hi": "हिंदी",
@@ -46,5 +46,5 @@
   "important_banner_text_en": "",
   "important_banner_text_hi": "",
 
-  "hero_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjxrPmZQDREs3RLvU9G2yzLIBtfKepfToQebiZPnl43Vf3eg6huRJH1sR&s=10",
+  "hero_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjxrPmZQDREs3RLvU9G2yzLIBtfKepfToQebiZPnl43Vf3eg6huRJH1sR&s=10"
 }
