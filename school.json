@@ -44,5 +44,7 @@
 
   "important_banner": false,
   "important_banner_text_en": "",
-  "important_banner_text_hi": ""
+  "important_banner_text_hi": "",
+
+  "hero_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxjxrPmZQDREs3RLvU9G2yzLIBtfKepfToQebiZPnl43Vf3eg6huRJH1sR&s=10",
 }
