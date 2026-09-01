@@ -1,9 +1,9 @@
 [
   {
-    "title_en": "SAMPLE: Teachers' Day Programme",
-    "title_hi": "नमूना: शिक्षक दिवस कार्यक्रम",
+    "title_en": "Teachers' Day Programme",
+    "title_hi": "शिक्षक दिवस कार्यक्रम",
     "date": "2026-09-05",
-    "end_date": "",
+    "end_date": "2026-09-05",
     "time": "10:00 AM",
     "venue_en": "School Assembly Ground",
     "venue_hi": "विद्यालय प्रांगण",
@@ -11,7 +11,7 @@
     "important": true,
     "description_en": "Students will present a short cultural programme to honour their teachers.",
     "description_hi": "छात्र अपने शिक्षकों के सम्मान में एक छोटा सांस्कृतिक कार्यक्रम प्रस्तुत करेंगे।",
-    "image": ""
+    "image": "https://cdn.cdnparenting.com/articles/2023/08/16161626/Teachers-Day-2025-History-Imporatance-and-Celebration-Ideas-768x512.webp"
   },
   {
     "title_en": "SAMPLE: Inter-House Sports Day",
@@ -28,8 +28,8 @@
     "image": ""
   },
   {
-    "title_en": "SAMPLE: Parent-Teacher Meeting",
-    "title_hi": "नमूना: अभिभावक-शिक्षक बैठक",
+    "title_en": "Parent-Teacher Meeting",
+    "title_hi": "अभिभावक-शिक्षक बैठक",
     "date": "2026-08-29",
     "end_date": "",
     "time": "11:00 AM",
@@ -39,7 +39,7 @@
     "important": false,
     "description_en": "Parents are requested to meet class teachers to discuss student progress.",
     "description_hi": "अभिभावकों से अनुरोध है कि वे छात्रों की प्रगति पर चर्चा हेतु कक्षा शिक्षकों से मिलें।",
-    "image": ""
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBmVdCj4PwM6-yRarBY1rcpMWqXgKWLLoZEsKfXJMXzDpqo0HVjB8hcW7a&s=10"
   },
   {
     "title_en": "SAMPLE: Republic Day Celebration (Past Example)",
