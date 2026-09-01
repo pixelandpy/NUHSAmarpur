@@ -1,7 +1,7 @@
 [
   {
-    "name_en": "[ADD TEACHER NAME]",
-    "name_hi": "[शिक्षक का नाम जोड़ें]",
+    "name_en": "Vipin Bihari",
+    "name_hi": "विपिन बिहारी",
     "designation_en": "Principal",
     "designation_hi": "प्रधानाध्यापक",
     "subject_en": "",
@@ -13,12 +13,12 @@
     "order": 1
   },
   {
-    "name_en": "[ADD TEACHER NAME]",
-    "name_hi": "[शिक्षक का नाम जोड़ें]",
+    "name_en": "Shika Kumari",
+    "name_hi": "शिखा कुमारी",
     "designation_en": "Assistant Teacher",
     "designation_hi": "सहायक शिक्षक",
-    "subject_en": "[ADD SUBJECT]",
-    "subject_hi": "[विषय जोड़ें]",
+    "subject_en": "Science",
+    "subject_hi": "विज्ञान",
     "photo": "",
     "qualification": "",
     "profile_en": "",
@@ -26,12 +26,12 @@
     "order": 2
   },
   {
-    "name_en": "[ADD TEACHER NAME]",
-    "name_hi": "[शिक्षक का नाम जोड़ें]",
+    "name_en": "Simple Kumari",
+    "name_hi": "सिंपल कुमारी",
     "designation_en": "Assistant Teacher",
     "designation_hi": "सहायक शिक्षक",
-    "subject_en": "[ADD SUBJECT]",
-    "subject_hi": "[विषय जोड़ें]",
+    "subject_en": "Maths",
+    "subject_hi": "गणित",
     "photo": "",
     "qualification": "",
     "profile_en": "",
